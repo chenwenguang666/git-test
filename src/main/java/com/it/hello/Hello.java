@@ -13,5 +13,6 @@ public class Hello {
         System.out.println("hello, world!!! hot-fix test");
         System.out.println("hello, world!!! push test");
         System.out.println("hello, world!!! pull test");
+        System.out.println("hello, world!!! pull test ssh");
     }
 }
