@@ -12,5 +12,6 @@ public class Hello {
         System.out.println("hello, world!!! master test");
         System.out.println("hello, world!!! hot-fix test");
         System.out.println("hello, world!!! push test");
+        System.out.println("hello, world!!! pull test");
     }
 }
